@@ -7,6 +7,34 @@ h1{
 h1{
   color: #FFFFFF
 }
+
+h2{
+  color: #FFFFFF
+}
+
+h3{
+  color: #FFFFFF
+}
+
+body{
+  background-color: #000000
+}
+
+main{
+  color: #FFFFFF
+}
+
+li{
+  color: #FFFFFF
+}
+
+ol{
+  color: #FFFFFF
+}
+
+P{
+  color: #FFFFFF
+}
 .hoge{
   margin:30px;
 }
